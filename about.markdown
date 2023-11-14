@@ -12,4 +12,8 @@ technologies. Our work has a particular focus on network measurement,
 enhancing network and transport layer protocols, and understanding and
 improving the Internet standards development process.
 
+## People
+
+* [Dr Colin Perkins](https://csperkins.org)
+* [Dr Ryo Yanagida](https://htonl.org)
 
