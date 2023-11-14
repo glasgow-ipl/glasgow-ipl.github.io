@@ -86,8 +86,8 @@ permalink: /publications/
 
  * Gorry Fairhurst and Colin Perkins, Considerations around Transport Header
    Confidentiality, Network Operations, and the Evolution of Internet
-   Transport Protocols, Internet Engineering Task Force, RFC 9065, July
-   2021. DOI:10.17487/RFC9065
+   Transport Protocols, Internet Engineering Task Force, RFC 9065, 
+   July 2021. DOI:10.17487/RFC9065
 
  * Stephen McQuistin, Vivian Band, Dejice Jacob, and Colin Perkins,
    Investigating Automatic Code Generation for Network Packet Parsing,
@@ -104,8 +104,8 @@ permalink: /publications/
    January 2021. DOI:10.17487/RFC8872
 
  * Ali Begen, Paul Kyzivat, Colin Perkins, and Mark Handley, SDP: Session
-   Description Protocol, Internet Engineering Task Force, RFC 8866, January
-   2021. DOI:10.17487/RFC8866
+   Description Protocol, Internet Engineering Task Force, RFC 8866, 
+   January 2021. DOI:10.17487/RFC8866
 
  * Jonathan Lennox, Magnus Westerlund, Qin Wu, and Colin Perkins, Sending
    Multiple RTP Streams in a Single RTP Session: Grouping RTP Control
@@ -117,16 +117,16 @@ permalink: /publications/
    RFC 8860, January 2021. DOI:10.17487/RFC8860
 
  * Colin Perkins, Magnus Westerlund, and Jörg Ott, Media Transport and Use
-   of RTP in WebRTC, Internet Engineering Task Force, RFC 8834, January
-   2021. DOI:10.17487/RFC8834
+   of RTP in WebRTC, Internet Engineering Task Force, RFC 8834, January 2021.
+   DOI:10.17487/RFC8834
 
 
 ## 2020
    
  * Theresa Enghardt, Tommy Pauly, Colin Perkins, Kyle Rose, and Christopher
    A. Wood, A Survey of the Interaction between Security Protocols and
-   Transport Services, Internet Engineering Task Force, RFC 8922, October
-   2020. DOI:10.17487/RFC8922
+   Transport Services, Internet Engineering Task Force, RFC 8922, October 2020.
+   DOI:10.17487/RFC8922
 
  * Stephen McQuistin, Vivian Band, Dejice Jacob, and Colin Perkins, Parsing
    Protocol Standards to Parse Standard Protocols, Proceedings of the
@@ -229,8 +229,8 @@ permalink: /publications/
 
  * Simon Jouet, Colin Perkins, and Dimitrios Pezaros, OTCP: SDN-Managed
    Congestion Control for Data Center Networks, Proceedings of the IEEE/IFIP
-   Network Operations and Management Symposium, Istanbul, Turkey, April
-   2016. DOI:10.1109/NOMS.2016.7502810
+   Network Operations and Management Symposium, Istanbul, Turkey, April 2016.
+   DOI:10.1109/NOMS.2016.7502810
 
 
 ## 2015
@@ -404,8 +404,8 @@ permalink: /publications/
    DOI:10.17487/RFC6051
 
  * Jörg Ott and Colin Perkins, Guidelines for Extending the RTP Control
-   Protocol (RTCP), Internet Engineering Task Force, RFC 5968, September
-   2010. DOI:10.17487/RFC5968
+   Protocol (RTCP), Internet Engineering Task Force, RFC 5968, September 2010.
+   DOI:10.17487/RFC5968
 
  * Colin Perkins, RTP and the Datagram Congestion Control Protocol (DCCP),
    Internet Engineering Task Force, RFC 5762, April 2010.
@@ -444,8 +444,8 @@ permalink: /publications/
  * Aminu Mohammed, Mohamed Ould-Khaoua, Lewis M. Mackenzie, Colin Perkins,
    and Jamal-Deen Abdulai, Probabilistic Counter-Based Route Discovery for
    Mobile Ad hoc Networks, Proceedings of the 5th International Wireless
-   Communication and Mobile Computing Conference, Leipzig, Germany, June
-   2009. DOI:10.1145/1582379.1582672
+   Communication and Mobile Computing Conference, Leipzig, Germany, June 2009.
+   DOI:10.1145/1582379.1582672
 
 
 ## 2008
