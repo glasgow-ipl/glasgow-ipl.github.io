@@ -14,6 +14,12 @@ improving the Internet standards development process.
 
 ## People
 
-* [Dr Colin Perkins](https://csperkins.org)
-* [Dr Ryo Yanagida](https://htonl.org)
+* [Dr Colin Perkins](https://csperkins.org) – PI
+* [Dr Ryo Yanagida](http://www.htonl.net)
+* [Mihail Yanev](https://yanev.uk)
+* [Vivian Band](https://github.com/ArcStatic)
+* Charles Varley
+* [Yuting Wan](https://www.gla.ac.uk/pgrs/yutingwan/)
+* [Ivan Nikitin](https://www.gla.ac.uk/pgrs/ivannikitin/)
+* [Elizabeth Boswell](https://www.gla.ac.uk/pgrs/elizabethboswell/)
 
