@@ -9,7 +9,7 @@ permalink: /publications/
 * Stephen McQuistin, Peter Snyder, Colin Perkins, Hamed Haddadi, and Gareth
   Tyson, A First Look at the Privacy Harms of the Public Suffix List,
   Proceedings of the ACM Internet Measurement Conference, October 2023.
-  DOI:10.1145/3618257.3624836
+  [DOI:10.1145/3618257.3624836](https://dx.doi.org/10.1145/3618257.3624836)
 
 * Bernard Aboba, Gonzalo Salgueiro, and Colin Perkins, Multiplexing Scheme
   Updates for QUIC, Internet Engineering Task Force, RFC 9443, July 2023.
@@ -24,8 +24,8 @@ permalink: /publications/
 * Mladen Karan, Prashant Khare, Ravi Shekhar, Stephen McQuistin, Ignacio
   Castro, Gareth Tyson, Colin Perkins, Patrick Healey, and Matthew Purver,
   LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis
-  Dataset, Finding of the Association for Computational Linguistics, July
-  2023. DOI:10.18653/v1/2023.findings-acl.378
+  Dataset, Finding of the Association for Computational Linguistics, 
+  July 2023. DOI:10.18653/v1/2023.findings-acl.378
 
 * Stephen McQuistin, Mladen Karan, Prashant Khare, Colin Perkins, Matthew
   Purver, Patrick Healey, Ignacio Castro, and Gareth Tyson, Errare humanum
