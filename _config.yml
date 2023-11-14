@@ -1,8 +1,8 @@
-title: Internet Protocols Laboratory, University of Glasgow
+title: Internet Protocols Laboratory
 email: colin.perkins@glasgow.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   The Internet Protocols Laboratory at the University of Glasgow.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: "https://glasgow-ipl.github.io"
 domain: glasgow-ipl.github.io
 github_username:  csperkins
