@@ -4,6 +4,41 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2024
+
+ * Matthew Russell Barnes, Mladen Karan, Stephen McQuistin, Colin Perkins,
+	 Gareth Tyson, Matthew Purver, Ignacio Castro, and Richard G. Clegg, 
+	 Temporal Network Analysis of Email Communication Patterns in a Long 
+	 Standing Hierarchy, Proceedings of the International AAAI Conference
+	 on Web and Social Media, June 2024.
+	 [DOI:10.1609/icwsm.v18i1.31302](https://dx.doi.org/10.1609/icwsm.v18i1.31302)
+
+ * Elizabeth Boswell and Colin Perkins, RIPEn at Home – Surveying Internal
+   Domain Names using RIPE Atlas, Poster and extended abstract presented at the
+   IFIP Network Traffic Measurement and Analysis (TMA) Conference, May 2024.
+
+ * Samuel Cavoj, Ivan Nikitin, Colin Perkins, and Ornela Dardha, Session Types
+   for the Transport Layer: Towards an Implementation of TCP, Proceedings of the
+   Workshop on Programming Language Approaches to Concurrency and
+   Communication-cEntric Software, April 2024. 
+	 [DOI:10.4204/EPTCS.401.3](https://dx.doi.org/10.4204/EPTCS.401.3)
+
+ * Jari Arkko, Colin Perkins, and Suresh Krishnan, Report from the IAB Workshop
+   on Environmental Impact of Internet Applications and Systems, 2022, Internet
+   Engineering Task Force, RFC 9547, February 2024.
+	 [DOI:10.17487/RFC9547](https://dx.doi.org/10.17487/RFC9547)
+
+ * Patrick G. T. Healey, Prashant Khare, Ignacio Castro, Gareth Tyson,
+	 Mladen Karan, Ravi Shekhar, Stephen McQuistin, Colin Perkins, and Matthew
+	 Purver, Power and vulnerability: managing sensitive language in
+	 organizational communication, Frontiers in Psychology, February 2024.
+	 [DOI:10.3389/fpsyg.2023.1266425](https://dx.doi.org/10.3389/fpsyg.2023.1266425)
+
+ * Elizabeth Boswell, Stephen McQuistin, Colin Perkins, and Stephen Strowes, 
+   Measuring NAT64 Usage in the Wild, arXiv:2402.14632, February 2024. 
+	 [DOI:10.48550/arXiv.2402.14632](https://dx.doi.org/10.48550/arXiv.2402.14632)
+
+
 ## 2023
 
  * Stephen McQuistin, Peter Snyder, Colin Perkins, Hamed Haddadi, and Gareth
