@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Glasgow Research Standardisation Network"
-date:   2024-09-02 18:25:00 +0000
+date:   2024-09-02 18:25:00 -0000
 categories: ietf
 ---
 
