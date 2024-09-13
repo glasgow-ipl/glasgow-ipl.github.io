@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Have your say! -- Coding Education and AI"
-date:   2024-09-13 18:07:12 +0000
+date:   2024-09-13 18:07:12 +0100
 categories: events
 ---
 
