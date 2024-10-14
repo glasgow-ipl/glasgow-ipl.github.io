@@ -12,6 +12,7 @@ Current group members:
 * [Charles Varley](https://www.gla.ac.uk/pgrs/charlesvarley/)
 * [Yuting Wan](https://www.gla.ac.uk/pgrs/yutingwan/)
 * [Elizabeth Boswell](https://www.gla.ac.uk/pgrs/elizabethboswell/)
+* [Duncan Lowther](https://www.gla.ac.uk/schools/computing/staff/duncanlowther/)
 
 Former members:
 * Ivan Nikitin
