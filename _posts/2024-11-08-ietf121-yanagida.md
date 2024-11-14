@@ -16,11 +16,11 @@ of Standard-Setting Processes Research Group (Rasprg)](https://datatracker.ietf.
 The main focus of the talk was to present the data collection and analysis workflow 
 developed through the project. 
 
+[Link to the slides](/assets/slides/2024-11-08-IETF121-RASPRG-sodestream.pdf)
+
 Through the discussions in the meeting sessions, I gained useful suggestions and 
 potential directions to explore. Personally, I found the experience of both 
 presenting and engaging with the community incredibly useful. 
-
-[Link to the slides](/assets/slides/2024-11-08-IETF121-RASPRG-sodestream.pdf)
 
 ![image]({{ site.baseurl }}/assets/images/IMG_0489.jpg)
 *A picture of the Dublin Convention Centre, the venue for the IETF121*
