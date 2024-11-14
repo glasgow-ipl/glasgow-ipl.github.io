@@ -6,7 +6,7 @@ categories: ietf
 ---
 Author: Ryo Yanagida
 
-![image]({{ site.baseurl }}assets/images/IMG_0489.jpg)
+![image]({{ site.baseurl }}/assets/images/IMG_0489.jpg)
 *A picture of the Dublin Convention Centre, the venue for the IETF121*
 
 Ryo Yanagida attended the [IETF 121](https://datatracker.ietf.org/meeting/121/proceedings)
