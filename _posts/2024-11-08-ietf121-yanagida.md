@@ -23,10 +23,10 @@ Through the discussions in the meeting sessions, we gained useful suggestions an
 potential directions to explore. Personally, I found the experience of both 
 presenting and engaging with the community incredibly useful. 
 
-[Link to the slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rasprg-sodestream-tools-exploring-the-standards-development-process-through-analysing-open-data-00)
+[Link to the slides](/assets/slides/2024-11-08-IETF121-RASPRG-sodestream.pdf)
 
 Prior to the IETF meetings, IETF Hackathon was held on 2nd and 3rd November. 
-Similarly to the [prior IETF Hackerthon](https://ilnp.cs.st-andrews.ac.uk//freebsd/20231105-ietf118_hackathon/), Ryo joined Saleem Bhatti from 
+Similarly to the [prior IETF Hackathon](https://ilnp.cs.st-andrews.ac.uk//freebsd/20231105-ietf118_hackathon/), Ryo joined Saleem Bhatti from 
 the University of St Andrews to test and demonstrate [Identifier Locator Network Protocol (ILNP)](https://ilnp.cs.st-andrews.ac.uk//). 
 We carried out some data collection and debugging of the code, continue to move the project forward. 
 
