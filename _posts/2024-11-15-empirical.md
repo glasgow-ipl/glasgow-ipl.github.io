@@ -15,7 +15,6 @@ Being organised by a Law School, this was somewhat of a departure from the usual
 
 Our work has focussed on the process of developing Internet standards. We’ve considered the factors that affect whether a particular document will be adopted as a standard, what makes a successful author, and how participation in the standards-setting community, and its effectiveness, have changed over time. These topics were certainly considered by the other speakers, but there was also a strong focus on environmental, social, and governance standards, studies of litigation around standards essential patents, and discussion of the interplay between standards and regulation. 
 
-![image](/assets/images/ripe89_ipv4_ipv6.jpg) 
 The conference also considered standards for large language models (LLMs), and AI more broadly. The presentation of a paper interpreting LLM-based critiques of the European AI Act led to a detailed and nuanced discussion of the possible biases in the training data and what, if anything, this might reveal about the organisations developing the LLMs – a good example of the benefits of inter-disciplinary discussion. 
 
 Overall, this was an interesting event – leaving me with much to think about.
