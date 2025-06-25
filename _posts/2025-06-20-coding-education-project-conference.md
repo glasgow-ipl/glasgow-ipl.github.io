@@ -6,7 +6,7 @@ categories: event
 ---
 
 Ryo Yanagida from the group hosted the ["Coding, Creativity, and Confidence in the 
-Generative AI-Era Conference" conference](https://ccc-ai-era.github.io/events/2025-06-conference) along with the other project members. 
+Generative AI-Era Conference"](https://ccc-ai-era.github.io/events/2025-06-conference) along with the other project members. 
 The team included Anna Sollazzo from the School. 
 
 Coding, Creativity, and Confidence in AI-Era project was funded by Glasgow Crucible 
