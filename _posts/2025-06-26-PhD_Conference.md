@@ -11,4 +11,4 @@ Yuting contributed to "Reverse Viva" session as the examiner, which took place o
 help them better understand the process of UK viva by being on the 'other-side'. 
 On the second day, Ryo hosted the workshop "Bridging the Nerdy Abyss: How Systems Research Meets the Rest of the CS interdisciplinary research" along with [Paul Harvey](https://www.paul-harvey.org) from the School. 
 This workshop aims to help CS researchers outside of systems to explore a potential systems research perspective in their research. 
-The session was designed by the former member of the group [Stephen McQuistin](https://www.smcquistin.uk) at the University of St Andrews, who is a lead on [Sicsa's Systems and Software Engineering theme](https://sicsa.ac.uk/research/themes/systems-software-engineering/). 
+The session was designed by the former member of the group [Stephen McQuistin](https://www.smcquistin.uk) at the University of St Andrews, who is one of the [Sicsa's Systems and Software Engineering theme](https://sicsa.ac.uk/research/themes/systems-software-engineering/) lead. 
