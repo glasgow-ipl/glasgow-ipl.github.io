@@ -5,7 +5,7 @@ date:   2025-06-26 13:39:19 +0100
 categories: event
 ---
 
-Ryo Yanagida and Yuting Wan from the group attended the Sicsa PhD Conference 2025, which took place at the Edinburgh Napier University on June 25th and June 26th.
+Ryo Yanagida and Yuting Wan from the group attended the [Sicsa PhD Conference 2025](https://sicsaconf.org), which took place at the Edinburgh Napier University on June 25th and June 26th. This is organised by (sicsa — The Scottish Informatics & Computer Science Alliance)[https://sicsa.ac.uk]. 
 
 Yuting contributed to "Reverse Viva" session as the examiner, which took place on the first day. Reverse Viva is designed to help PhD students experience and to 
 help them better understand the process of UK viva by being on the 'other-side'. 
